@@ -22,7 +22,6 @@
 				<li>To my friends</li>
 			</ol>
 		</li>
-		<li>Because I Love HTML</li>
 	</ul>
 	<h2>Where did u find this tutorial?</h2>
 	<p><a href="http://www.htmldog.com">HTML Dog</a></p>
